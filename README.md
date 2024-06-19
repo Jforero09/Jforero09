@@ -15,7 +15,7 @@
 - Software Engineer Student
 - Frontend & Python Lover 
 - Currently working as free-lancer
-- I’m currently open for an Intern or a new job opportunity, this is [My CV](https://read.cv/0xabdulkhalid)
+- I’m currently open for a new job opportunity, this is [My CV](https://read.cv/0xabdulkhalid)
 
 <br><br>
 
