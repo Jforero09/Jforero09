@@ -15,7 +15,6 @@
 - Software Engineer Student
 - Frontend & Python Lover 
 - Currently working as free-lancer
-- Personal website [link](https://www.0xabdulkhalid.ml)
 - I’m currently open for an Intern or a new job opportunity, this is [My CV](https://read.cv/0xabdulkhalid)
 
 <br><br>
