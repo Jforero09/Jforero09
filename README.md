@@ -2,19 +2,16 @@
 <!--  -->
 
 <br>
-
-
-
 	
  **About me**
 
-
-
 <br>
 
-- Systems Engineer 
-- Data analysis , Data science and Python
-
+- Software Engineer 
+- Data analysis
+- Business Inteligence
+- Data science
+   
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -97,7 +94,7 @@
 <ul>
 
 <li>
-<a href="https://www.linkedin.com/in/juan-forero-7b62621bb/" target="_blank">
+<a href="www.linkedin.com/in/jeforero09" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Juan Forero-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
